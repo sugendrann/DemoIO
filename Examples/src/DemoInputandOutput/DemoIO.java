@@ -58,7 +58,7 @@ class FileIO
 	{
 		try
 		{
-		File file = new File("/Users/ram/Downloads/save1.txt");
+		File file = new File("/Users/sugen/Downloads/save1.csv");
 		//FileOutputStream out = new FileOutputStream(file,true);
 		//out.write(data.getBytes());
 		//out.close();
